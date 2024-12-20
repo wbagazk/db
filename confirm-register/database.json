@@ -11,6 +11,10 @@
     {
       "username": "tes",
       "password": "@wbk"
+    },
+    {
+      "username": "admin",
+      "password": "@wbk"
     }
   ]
 }
