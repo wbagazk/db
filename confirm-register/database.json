@@ -1,23 +1,5 @@
 {
   "allowedIps": [
     "172.18.0.4"
-  ],
-  "users": [
-    {
-      "username": "wbk",
-      "password": "@wbk"
-    },
-    {
-      "username": "wbagazk",
-      "password": "12345"
-    },
-    {
-      "username": "wbagazk",
-      "password": "bagas123"
-    },
-    {
-      "username": "wbagazk",
-      "password": "123"
-    }
   ]
 }
